@@ -30,7 +30,7 @@ The second model implemented used convolution layers after the LSTM as well as o
 The results can be view in the report pdf.
 
 ## Trained Model
-A trained model was included it is 
+A trained model can be retrieved from https://drive.google.com/open?id=1LqHUuSIEMGjTPEF2ozGGIGXCb196pNii as well as other needed supplementary files such as the Senseval datasets and the GloVe pretrained embedder. 
 
 ## Authors
 * **Bleau Moores**
