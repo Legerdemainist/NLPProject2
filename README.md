@@ -43,7 +43,7 @@ See also the list of [contributors](https://github.com/Legerdemainist/NLPAssignm
 ## References
 [1] Mikael K ̊ageb ̈ack and Hans Salomonsson. “Word SenseDisambiguation  using  a  Bidirectional  LSTM”.  In:Pro-ceedings of the 5th Workshop
     on Cognitive Aspects ofthe Lexicon (CogALex - V). Osaka, Japan: The COLING2016 Organizing Committee, Dec. 2016, pp. 51–56.
-    URL:https://www.aclweb.org/anthology/W16-5307
+    URL:https://www.aclweb.org/anthology/W16-5307</br>
 [2]  Jeff09 (Kun Li).Word Sense Disambiguation using Bidi-rectional LSTM. 
       https://github.com/Jeff09/Word-Sense-Disambiguation-using-Bidirectional-LSTM. 2018
 
